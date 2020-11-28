@@ -8,6 +8,7 @@
 }
 
 .card {
+  background-position: center;
   background-color: white;
   text-align: center;
   box-shadow: 0 0 5px rgb(230,230,230);
@@ -19,6 +20,8 @@
 
 .card img {
   height: 100px;
+  width: 100px;
+  object-fit: cover
 }
 
 .card p {
