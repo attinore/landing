@@ -1,0 +1,23 @@
+.footer-social {
+  background-color: #2C2B2B;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 56px;
+  box-shadow: 0 0.5px 30px rgba(0,0,0,0.1);
+}
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-line: none;
+  padding: 0px;
+}
+
+.social-icon {
+  font-size:20px;
+  margin: -8px;
+}
